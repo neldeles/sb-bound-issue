@@ -2,7 +2,7 @@
 
 Code snippet rendered in Source block is `<bound Template/>` instead of the subcomponent.
 
-Please take a look at `Navigation.stories.js` for a reproduction of the issue.
+Please take a look at **_src/components/Navigation/Navigation.stories.js_** for a reproduction of the issue.
 
 Actual output:
 
