@@ -2072,6 +2072,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@heroicons/react@npm:^1.0.5":
+  version: 1.0.5
+  resolution: "@heroicons/react@npm:1.0.5"
+  peerDependencies:
+    react: ">= 16"
+  checksum: 12114af19c17f69140cc7338e4cd12fe38098ad3ed79f02762106160655cde3ebdba58a2b26f1067f720786187364fd9465bc72f02aad85b0ead8172d76aa51d
+  languageName: node
+  linkType: hard
+
 "@humanwhocodes/config-array@npm:^0.5.0":
   version: 0.5.0
   resolution: "@humanwhocodes/config-array@npm:0.5.0"
@@ -17357,6 +17366,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "storybook-tailwind-repro@workspace:."
   dependencies:
+    "@heroicons/react": ^1.0.5
     "@mdx-js/react": ^1.6.22
     "@storybook/addon-actions": ^6.4.0-beta.23
     "@storybook/addon-docs": ^6.4.0-beta.23
